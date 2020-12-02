@@ -8,39 +8,39 @@ and the public & private leaderboard data if available (2-4 numbers).</p>
 
 | Model Name  | Performance Rating  | Leaderboard Rank  |
 |---|---|---|
-| \<model name 1>  |   |   |
-| \<model name 2>  |   |   |
-| \<model name 3>  |   |   |
-| \<model name 4>  |   |   |
-| \<model name 5>  |   |   |
+| KNN  |   |   |
+| Naive Bayes  |   |   |
+| Fourier Transform  |   |   |
+| Decison Tree  |   |   |
+| Ensemble  |   |   |
 | \<model name 6>  |   |   |
 
 
-### <span style="color:blue">\<model name 1></span>
+### <span style="color:blue">KNN</span>
 For each model, a paragraph or two describing:  what features you gave it
 (raw inputs, selected inputs, non-linear feature expansions, etc.); how
 was it trained (learning algorithm and software source); and key
 hyperparameter settings (plus your approach to choosing those settings).
 
-### <span style="color:blue">\<model name 2></span>
+### <span style="color:blue">Naive Bayes</span>
 For each model, a paragraph or two describing:  what features you gave it
 (raw inputs, selected inputs, non-linear feature expansions, etc.); how
 was it trained (learning algorithm and software source); and key
 hyperparameter settings (plus your approach to choosing those settings).
 
-### <span style="color:blue">\<model name 3></span>
+### <span style="color:blue">Fourier Transform</span>
 For each model, a paragraph or two describing:  what features you gave it
 (raw inputs, selected inputs, non-linear feature expansions, etc.); how
 was it trained (learning algorithm and software source); and key
 hyperparameter settings (plus your approach to choosing those settings).
 
-### <span style="color:blue">\<model name 4></span>
+### <span style="color:blue">Decision Tree</span>
 For each model, a paragraph or two describing:  what features you gave it
 (raw inputs, selected inputs, non-linear feature expansions, etc.); how
 was it trained (learning algorithm and software source); and key
 hyperparameter settings (plus your approach to choosing those settings).
 
-### <span style="color:blue">\<model name 5></span>
+### <span style="color:blue">Ensemble</span>
 For each model, a paragraph or two describing:  what features you gave it
 (raw inputs, selected inputs, non-linear feature expansions, etc.); how
 was it trained (learning algorithm and software source); and key
