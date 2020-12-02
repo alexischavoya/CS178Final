@@ -1,9 +1,5 @@
 # CS178Final
 
-These tools help in two ways for project53:
-1) It runs the program autonomously without opening shells or closing them
-2) It auto submits to gradescope
-
 ## Models
 
 <p>A table listing each model, as well as your best blended/stacked model
