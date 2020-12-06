@@ -2,3 +2,8 @@
 /.idea/
 /extra/
 /.ipynb_checkpoints/
+Models/.DS_Store
+Models/KNN/.DS_Store
+Models/KNN/knn_output/.DS_Store
+.DS_Store
+Models/KNN/knn_output/.DS_Store
