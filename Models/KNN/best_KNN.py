@@ -13,8 +13,8 @@ class KNN_f:
 
 
 class E_knn:
-    def __init__(self,nbags,features):
-        self.classifiers = [ None ] * nbags # Allocate space for learners
+    def __init__(self,learners,features):
+        self.classifiers = learners # Allocate space for learners
         features_number = features//10
         self.nbags = nbags
         for i in range(nbags):
